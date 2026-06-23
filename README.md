@@ -5,6 +5,7 @@
 * Neural Networks
 * AI integration with iOS application
 
+------------
 
 - 🔭 I'm currently working on **BMAD-method AI Workflow Automation**
 
