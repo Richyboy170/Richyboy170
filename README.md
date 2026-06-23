@@ -6,7 +6,7 @@
 
 - 👯 I'm looking to collaborate on **AI Engineering projects that are solid and built for future**
 
-- 📫 How to reach me **patiharn.liang@gmail.com**
+- 📫 Reach out to me via **patiharn.liang@gmail.com**
 
 - 👨‍💻 All of my projects are available at **[https://portfolio-patiharn-2026.vercel.app/](https://portfolio-patiharn-2026.vercel.app/)**
 
