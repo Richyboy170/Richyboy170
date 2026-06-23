@@ -2,10 +2,6 @@
 
 ### AI/ML Engineer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Richyboy170&label=Profile views&color=0e75b6&style=flat" alt="Richyboy170" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Richyboy170" alt="Richyboy170" /></a> </p>
-
 - 🔭 I'm currently working on **BMAD-method AI Workflow Automation**
 
 - 👯 I'm looking to collaborate on **AI Engineering projects that are solid and built for future**
