@@ -1,6 +1,9 @@
 # Hi 👋, I'm Patiharn Liangkobkit
 
-### AI/ML Engineer specialized in: Deep Agents & LLM Skills integration for AI Workflow Automation, Neural Networks, AI integration with iOS application
+### AI/ML Engineer specialized in:
+* Deep Agents & LLM Skills integration for AI Workflow Automation
+* Neural Networks
+* AI integration with iOS application
 
 
 - 🔭 I'm currently working on **BMAD-method AI Workflow Automation**
