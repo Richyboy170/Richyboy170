@@ -7,7 +7,7 @@ I'm passionate about building intelligent applications and scalable software sys
 I enjoy turning complex ideas into practical products by combining AI capabilities with solid software engineering principles.
 
 - 🤖 **AI Engineering:** LLMs, AI Agents, RAG, Vector Embeddings, Prompt Engineering, and AI Evaluation
-- 🧠 **Applied AI:** Intelligent Scheduling, Semantic Retrieval, Neural Networks, and AI Automation
+- 🧠 **Applied AI:** Intelligent Scheduling, Semantic Retrieval, and Neural Networks
 - 💻 **Software Development:** Backend Architecture, API Development, Full-Stack and Mobile Applications
 - 🔐 **System Engineering:** Authentication, Database Design, API Security, and Cloud Infrastructure
 - 👯 **Collaboration:** Open to AI Engineering and Software Development opportunities
