@@ -20,11 +20,11 @@ I enjoy turning complex ideas into practical products by combining AI capabiliti
 ## 🤝 Connect with Me
 
 <p align="left">
-  <a href="https://github.com/Richyboy170" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" height="40"/>
+  <a href="https://github.com/Richyboy170">
+    <img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="40" height="40"/>
   </a>
-  <a href="https://www.linkedin.com/in/patiharn-liang/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" height="40"/>
+  <a href="https://www.linkedin.com/in/patiharn-liang/">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="40" height="40"/>
   </a>
 </p>
 
@@ -35,14 +35,21 @@ I enjoy turning complex ideas into practical products by combining AI capabiliti
 ### 🤖 AI Engineering / Machine Learning
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv" height="40"/>
-  <img src="https://cdn.simpleicons.org/huggingface" width="40" height="40" alt="Hugging Face"/>
-  <img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="40" height="40" alt="LangChain"/>
-  <img src="https://skillicons.dev/icons?i=numpy,pandas,matlab,jupyter" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40" height="40" alt="Matplotlib"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow"/>
+  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="40" alt="Scikit-learn"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/opencv/opencv-original.svg" height="40" alt="OpenCV"/>
+  <img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="40" alt="Hugging Face"/>
+  <img src="https://cdn.simpleicons.org/langchain/1C3C3C" height="40" alt="LangChain"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/numpy/numpy-original.svg" height="40" alt="NumPy"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/pandas/pandas-original.svg" height="40" alt="Pandas"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/matlab/matlab-original.svg" height="40" alt="MATLAB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/matplotlib/matplotlib-original.svg" height="40" alt="Matplotlib"/>
 </p>
 
 **AI Engineering Experience**
+
 - LLM integration, structured outputs, and AI tool orchestration
 - Retrieval-Augmented Generation (RAG) and vector similarity search
 - Prompt engineering, prompt-injection defenses, and output validation
@@ -53,7 +60,13 @@ I enjoy turning complex ideas into practical products by combining AI capabiliti
 ### 💻 Programming Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,js,ts,swift" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/c/c-original.svg" height="40" alt="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/csharp/csharp-original.svg" height="40" alt="C#"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/python/python-original.svg" height="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/typescript/typescript-original.svg" height="40" alt="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/swift/swift-original.svg" height="40" alt="Swift"/>
 </p>
 
 ### 🌐 Web Development
@@ -61,17 +74,28 @@ I enjoy turning complex ideas into practical products by combining AI capabiliti
 **Frontend**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,svelte,tailwind" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/react/react-original.svg" height="40" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/svelte/svelte-original.svg" height="40" alt="Svelte"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="Tailwind CSS"/>
 </p>
 
 **Backend / Database / API**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,postgres,mysql,mongodb,firebase,postman" height="40"/>
-  <img src="https://cdn.simpleicons.org/supabase/3FCF8E" width="40" height="40" alt="Supabase"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/firebase/firebase-plain.svg" height="40" alt="Firebase"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/postman/postman-original.svg" height="40" alt="Postman"/>
+  <img src="https://cdn.simpleicons.org/supabase/3FCF8E" height="40" alt="Supabase"/>
 </p>
 
 **Backend Engineering Experience**
+
 - REST API development and server-side AI integration
 - PostgreSQL database design and Row Level Security (RLS)
 - Authentication, authorization, and secure API architecture
@@ -81,8 +105,9 @@ I enjoy turning complex ideas into practical products by combining AI capabiliti
 ### 📱 Mobile Development
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,swift" height="40"/>
-  <img src="https://cdn.simpleicons.org/expo/000020" width="40" height="40" alt="Expo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/react/react-original.svg" height="40" alt="React Native"/>
+  <img src="https://cdn.simpleicons.org/expo/000020" height="40" alt="Expo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/swift/swift-original.svg" height="40" alt="Swift"/>
 </p>
 
 - Cross-platform application development with React Native and Expo
@@ -93,8 +118,10 @@ I enjoy turning complex ideas into practical products by combining AI capabiliti
 ### ☁️ Cloud / DevOps / Infrastructure
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,docker,git" height="40"/>
-  <img src="https://cdn.simpleicons.org/cloudflare/F38020" width="40" height="40" alt="Cloudflare"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/docker/docker-original.svg" height="40" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/git/git-original.svg" height="40" alt="Git"/>
+  <img src="https://cdn.simpleicons.org/amazonaws/232F3E" height="40" alt="AWS"/>
+  <img src="https://cdn.simpleicons.org/cloudflare/F38020" height="40" alt="Cloudflare"/>
 </p>
 
 - Cloudflare Workers, D1, and KV
@@ -105,19 +132,21 @@ I enjoy turning complex ideas into practical products by combining AI capabiliti
 ### ⚙️ Embedded Systems / Hardware
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=arduino" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/arduino/arduino-original.svg" height="40" alt="Arduino"/>
 </p>
 
 ### 🎨 UI/UX Design / Creative Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/figma/figma-original.svg" height="40" alt="Figma"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/photoshop/photoshop-plain.svg" height="40" alt="Photoshop"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/illustrator/illustrator-plain.svg" height="40" alt="Illustrator"/>
 </p>
 
 ### 🎮 Game Development
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=unity" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/unity/unity-original.svg" height="40" alt="Unity"/>
 </p>
 
 ---
